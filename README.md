@@ -1,1 +1,1 @@
-# whmcs-virtual-payments
+# Virtual-Payments-WHMCS
